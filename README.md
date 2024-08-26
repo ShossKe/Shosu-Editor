@@ -1,11 +1,11 @@
 How to start
 Windows
 ```
-cd dist/edit
+cd edit
 ./edit.exe <filename>
 ```
 Linux
 ```
-cd dist/edit
+cd edit
 python3 edit.py <filename>
 ```
